@@ -1,0 +1,13 @@
+Q no 6(a)
+As we see that the name never be  change, every person have one name and can never be changed. So we place it in private so no can change it . As we make age proteced so that age is varaibale and also faculty can change it according to time . but both have not access in main
+
+
+Q no 6(b)
+Error 2 error-C2248 person private members first_name and last name are not accessible 
+
+
+Q no 6(c).beacuse these two errors are private members of base class and hidden in child class For remove this error ew use overridding work.
+
+
+Q no 8 Drived class of that base class can access its all membrs but in main we cannot make it accessible because of protected  inheritence which make its public members as protected;
+Q no 9 Drived class of that base class can access its all members but in main we cannot make it accessible because of private inheritence which make its public members as private;
